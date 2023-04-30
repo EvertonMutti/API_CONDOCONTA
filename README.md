@@ -82,7 +82,7 @@ Endpoints:
 
 Como utilizar:
 
-1º crie uma database no mysqlworkbench com o nome de bancolegal, o comando é: create database bancolegal;
+1º crie uma database no mysqlworkbench com o nome de bancolegal e teste, o comando é: create database bancolegal; create database teste;
 
 para iniciar a aplicação, abra o terminal, e vá até a pasta local do projeto e siga os seguintes passos e seguintes comandos:
 
